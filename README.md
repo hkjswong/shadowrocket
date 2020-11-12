@@ -1,0 +1,2 @@
+# shadowrocket
+小火箭shadowrocket同quantumult訂閱使用教程，backup用
